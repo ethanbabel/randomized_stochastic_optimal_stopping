@@ -1,1 +1,1 @@
-# randomized_stochastic_optimal_stopping
+# Randomized Optimal Stopping of Stochastic Systems
